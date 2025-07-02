@@ -4,7 +4,7 @@ Este é um projeto Java de terminal que permite converter valores entre diversas
 através do consumo da API [ExchangeRate API](https://www.exchangerate-api.com/). 
 A aplicação é modular, escalável e fácil de manter.
 
-Desafio apresentado a especialização de Back-End ONE|Tech Foundation
+Desafio apresentado a especialização de Back-End ONE|Tech Foundation - Oracle
 
 
 ## Funcionalidades
@@ -24,6 +24,32 @@ Essa abordagem modular garante que a aplicação possa evoluir para outras camad
 como API REST, GUI ou web.
 
 ![imagem](https://github.com/user-attachments/assets/6105719f-1eaa-4e6b-91e6-d52156b76256)
+
+
+
+## Currency Converter in Java
+
+This is a terminal-based Java project that allows users to convert amounts between various currencies by consuming the [ExchangeRate API](https://www.exchangerate-api.com/).  
+The application is modular, scalable, and designed with maintainability in mind.
+
+> Challenge proposed by the ONE|Tech Foundation Back-End specialization – Oracle.
+
+## Features
+
+- Real-time currency conversion based on current exchange rates  
+- Automatic exchange rate updates via API consumption  
+- Interactive command-line interface  
+
+![image](https://github.com/user-attachments/assets/20324436-0a06-40b4-9028-49d75cbae744)
+
+## Scalability
+
+This project is structured to make it easy to add new currency operations or extend functionality with minimal changes.  
+The terminal interface serves as a scalable functional prototype, enabling testing of all core application features without relying on graphical interfaces.  
+This modular design ensures the application can evolve into other presentation layers, such as REST APIs, GUIs, or web applications.
+
+![image](https://github.com/user-attachments/assets/6105719f-1eaa-4e6b-91e6-d52156b76256)
+
 
 
 
