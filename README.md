@@ -27,12 +27,12 @@ como API REST, GUI ou web.
 
 
 
-## Currency Converter in Java
+# Currency Converter in Java
 
 This is a terminal-based Java project that allows users to convert amounts between various currencies by consuming the [ExchangeRate API](https://www.exchangerate-api.com/).  
 The application is modular, scalable, and designed with maintainability in mind.
 
-> Challenge proposed by the ONE|Tech Foundation Back-End specialization – Oracle.
+Challenge proposed by ONE|Tech Foundation Back-End specialization – Oracle.
 
 ## Features
 
