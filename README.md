@@ -13,6 +13,8 @@ Desafio apresentado a especialização de Back-End ONE|Tech Foundation
 - Atualização automática das taxas de câmbio via consumo de API
 - Interface interativa via terminal
 
+![imagem](https://github.com/user-attachments/assets/20324436-0a06-40b4-9028-49d75cbae744)
+
 ## Escalabilidade
 
 Este projeto foi estruturado para facilitar a adição de novas operações entre moedas ou funcionalidades com o mínimo de mudanças.
@@ -23,7 +25,7 @@ como API REST, GUI ou web.
 
 ![imagem](https://github.com/user-attachments/assets/6105719f-1eaa-4e6b-91e6-d52156b76256)
 
-![imagem](https://github.com/user-attachments/assets/20324436-0a06-40b4-9028-49d75cbae744)
+
 
 
 
