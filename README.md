@@ -1,6 +1,6 @@
 ﻿# Conversor de moedas
 
-Esse é um projeto feito com java para realizar a conversão valores entre diversas moedas, 
+Esse é um projeto feito com java para realizar a conversão de valores entre diversas moedas, 
 através do consumo da API [ExchangeRate API](https://www.exchangerate-api.com/). 
 
 
@@ -14,6 +14,7 @@ através do consumo da API [ExchangeRate API](https://www.exchangerate-api.com/)
 <br/>
 <br/>
 ![imagem](https://github.com/user-attachments/assets/6105719f-1eaa-4e6b-91e6-d52156b76256)
+
 
 
 
